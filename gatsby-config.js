@@ -1,12 +1,12 @@
 module.exports = {
   siteMetadata: {
-    siteTitle: `Rocket Docs`,
-    defaultTitle: `Rocket Docs`,
-    siteTitleShort: `Rocket Docs`,
-    siteDescription: `Out of the box Gatsby Theme for creating documentation websites easily and quickly`,
+    siteTitle: `ReamsPro Docs`,
+    defaultTitle: `ReamsPro Docs`,
+    siteTitleShort: `ReamsPro Docs`,
+    siteDescription: `Documentation for ReamsPro users, a real estate management system`,
     siteUrl: `https://rocketdocs.netlify.app`,
-    siteAuthor: `@rocketseat`,
-    siteImage: `/banner.png`,
+    siteAuthor: `@bazuu`,
+    siteImage: `/favicon.png`,
     siteLanguage: `en`,
     themeColor: `#8257E6`,
     basePath: `/`,
@@ -18,7 +18,7 @@ module.exports = {
       options: {
         configPath: `src/config`,
         docsPath: `src/docs`,
-        repositoryUrl: `https://github.com/rocketseat/gatsby-themes`,
+        repositoryUrl: `https://github.com/reamspro/documentation`,
         baseDir: `examples/gatsby-theme-docs`,
       },
     },
@@ -44,7 +44,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-canonical-urls`,
       options: {
-        siteUrl: `https://rocketdocs.netlify.app`,
+        siteUrl: `https://documentation.reamspro.com`,
       },
     },
     `gatsby-plugin-offline`,
