@@ -3,7 +3,7 @@
 </p>
 
 <h2 align="center">
-  Gatsby Starter: Rocket Docs
+  REAMSPRO Documentation
 </h2>
 
 <p align="center">
