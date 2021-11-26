@@ -10,16 +10,6 @@
   Out of the box Gatsby Starter for creating documentation websites easily and quickly. With support for MDX, code highlight, Analytics, SEO and more 🔥 Using the theme: <a href="https://github.com/Rocketseat/gatsby-themes/tree/main/%40rocketseat/gatsby-theme-docs">@rocketseat/gatsby-theme-docs</a>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/PRs-welcome-%238257E6.svg" alt="PRs welcome!" />
-
-  <img alt="License" src="https://img.shields.io/badge/license-MIT-%238257E6">
-
-  <a href="https://twitter.com/intent/follow?screen_name=rocketseat">
-    <img src="https://img.shields.io/twitter/follow/rocketseat.svg?label=Follow%20@rocketseat" alt="Follow @rocketseat" />
-  </a>
-</p>
-
 ## 🚀 Features
 
 - 📝 MDX for docs;
